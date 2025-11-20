@@ -155,7 +155,7 @@ else:
     st.info("No sentiment column yet.")
 
 st.subheader("Tweets")
-st.dataframe(df[["created_at", "username", "text", "sentiment"]].head(200), use_container_width=True)
+st.dataframe(df[["created_at", "username", "text", "sentiment"]].head(200), width="stretch")
 
 
 # ------------------------------------------------------------
