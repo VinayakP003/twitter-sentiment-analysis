@@ -1,9 +1,5 @@
 # Twitter Sentiment Analysis
 
-**Professional README — ready for GitHub**
-
-A complete, production-aware repository for collecting Twitter/X posts, storing them in a Postgres data warehouse, running NLP + data‑mining pipelines to classify sentiment (positive / neutral / negative), and exploring results via a Streamlit dashboard.
-
 ---
 
 ## ✅ Project overview
