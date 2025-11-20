@@ -1,0 +1,14 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+snscrape
+tqdm
+nltk
+scikit-learn
+joblib
+matplotlib
+plotly
+transformers
+torch
+python-dotenv
