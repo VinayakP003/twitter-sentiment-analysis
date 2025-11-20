@@ -53,7 +53,7 @@ def load_data_from_db(engine, limit=500):
 # ------------------------------------------------------------
 # Helper 4: Load sample CSV if DB not available
 # ------------------------------------------------------------
-def load_sample_csv(path="sample_data/labeled_tweets.csv"):
+def load_sample_csv(path="labeled_tweets.csv"):
     df = pd.read_csv(path)
 
     # Fix label column if needed
